@@ -32,10 +32,6 @@ The contracts have been developed with [Solidity 0.8.21](https://github.com/ethe
 
 ### Flow
 
-- Define a role by setting targets, functions, and parameters that it can call
-- Assign the role to an address with `assignRoles()`
-- Address can now trigger the safe to call those targets, functions, and parameters via `execTransactionWithRole()`
-
 ### Deployments
 
 #### Roles
